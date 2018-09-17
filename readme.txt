@@ -7,4 +7,6 @@ The first step:
 2. git commit -m <message>
 
 The second step:
+Git trachs chagnes.
+
 
