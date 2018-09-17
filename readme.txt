@@ -6,3 +6,5 @@ The first step:
 1. git add <file>
 2. git commit -m <message>
 
+The second step:
+
