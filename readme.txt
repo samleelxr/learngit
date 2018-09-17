@@ -6,5 +6,4 @@ The first step:
 1. git add <file>
 2. git commit -m <message>
 
-Git has a mutable index called stage.
 
