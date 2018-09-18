@@ -4,4 +4,4 @@ And the following wil should you how to use it.
 
 Git trachs chagnes of files.
 
-
+Creating a new branch is quick.
